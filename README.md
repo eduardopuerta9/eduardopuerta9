@@ -32,7 +32,7 @@ I am a health sciences graduate turned full stack developer with a passion to at
 
 #
 
-### 📺 Latest Projects
+### :art: Latest Projects
 
 
 
