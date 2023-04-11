@@ -2,7 +2,7 @@
 
 **`FullStack Web Developer`**
 
-I am a health sciences graduate turned full stack developer with a passion to attack challenges head on. My desire to complete challenges and find solutions comes from the fulfillment I receive when I find the solutions to difficult challenges. I optimize my productivity and results with detailed planning, clear communication, collaboration, and organization. I am someone who is easy to work with and fluent in both English and Spanish.
+As a health sciences graduate turned full stack developer, I bring a unique blend of skills and perspectives to every challenge I tackle. With a passion for problem-solving and a commitment to delivering high-quality results, I thrive on finding innovative solutions to complex problems. My approach to work is grounded in meticulous planning, clear communication, and collaborative teamwork, allowing me to optimize my productivity and achieve outstanding outcomes. Fluent in both English and Spanish, I am a skilled communicator who can work effectively with individuals from diverse backgrounds and cultures.uent in both English and Spanish.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/eduardo-puerta-0a7707265/">
