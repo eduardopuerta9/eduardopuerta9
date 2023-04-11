@@ -37,7 +37,7 @@ As a health sciences graduate turned full stack developer, I bring a unique blen
 [<img width="350" alt="connect four" src="https://user-images.githubusercontent.com/122240360/215114718-7693b643-039b-4960-ade1-858d08450458.png">](https://github.com/eduardopuerta9/CONNECT-FOUR)
 
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20For%20More-red?style=for-the-badge&logo=followers&logoColor=white"/>](https://github.com/eduardopuerta9?tab=followers)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20For%20More-blue?style=for-the-badge&logo=followers&logoColor=white"/>](https://github.com/eduardopuerta9?tab=followers)
 
 #
 
