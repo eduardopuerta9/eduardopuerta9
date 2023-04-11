@@ -43,7 +43,7 @@ As a health sciences graduate turned full stack developer, I bring a unique blen
 
 ### 📊 Stats
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardopuerta9&show_icons=true&theme=gruvbox)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardopuerta9&show_icons=true&theme=great-gatsby)
 
 
 
