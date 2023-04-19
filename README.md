@@ -2,7 +2,7 @@
 
 **`FullStack Web Developer`**
 
-As a health sciences graduate turned full stack developer, I bring a unique blend of skills and perspectives to every challenge I tackle. With a passion for problem-solving and a commitment to delivering high-quality results, I thrive on finding innovative solutions to complex problems. My approach to work is grounded in meticulous planning, clear communication, and collaborative teamwork, allowing me to optimize my productivity and achieve outstanding outcomes. Fluent in both English and Spanish, I am a skilled communicator who can work effectively with individuals from diverse backgrounds and cultures.uent in both English and Spanish.
+As a Full Stack Developer with a strong background in STEM, I excel at collaborating with teams to deliver results in fast-paced environments while maintaining clear communication. My proficiency in React, JavaScript, Vue, MongoDB, PostgreSQL, Express, Mongoose, Node, Python, and Flask enables me to develop efficient and effective applications that meet the needs of clients and end-users alike. Moreover, my fluency in both Spanish and English allows me to work seamlessly with Spanish-speaking clients and team members, enhancing my ability to provide exceptional service.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/eduardo-puerta-0a7707265/">
