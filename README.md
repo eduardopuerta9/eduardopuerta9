@@ -50,7 +50,7 @@ As a Full Stack Developer with a strong background in STEM, I excel at collabora
 </a>
 <h3>UFC Website</h3>
 <a href="https://github.com/hoang-p6/UFC-Website-FrontEnd">
-  <img src="https://camo.githubusercontent.com/ddcfa45efe3f975e036f71cf9c3649db145369f1821017541f39f42832c06d07/68747470733a2f2f692e696d6775722e636f6d2f753641575354732e706e67" alt="Screen Shot 2023-04-04 at 9 51 48 AM" width="500">
+  <img src="https://camo.githubusercontent.com/b268805a83d223cf2d3678f32934de038385e012d45c372b7c3b3ab6e4b497f5/68747470733a2f2f692e696d6775722e636f6d2f753641575354732e706e67" alt="Screen Shot 2023-04-04 at 9 51 48 AM" width="500">
 </a>
 
 
