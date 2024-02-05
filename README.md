@@ -1,6 +1,6 @@
 # :computer: Eduardo Puerta
 
-**`FullStack Web Developer`**
+**`Software Engineer`**
 
 As a Full Stack Developer with a strong background in STEM, I excel at collaborating with teams to deliver results in fast-paced environments while maintaining clear communication. My proficiency in React, JavaScript, Vue, MongoDB, PostgreSQL, Express, Mongoose, Node, Python, and Flask enables me to develop efficient and effective applications that meet the needs of clients and end-users alike. Moreover, my fluency in both Spanish and English allows me to work seamlessly with Spanish-speaking clients and team members, enhancing my ability to provide exceptional service.
 
